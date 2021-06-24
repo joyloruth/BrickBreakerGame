@@ -23,8 +23,8 @@ public class Block extends Rectangle{
 	}
 	
 	public void draw(Graphics g, Component c){
-		if(!destroyed)
-			g.drawImage(pic, x, y, w, h, c);
+		//if(!destroyed)
+			//g.drawImage(pic, x, y, w, h, c);
 		
 	}
 
